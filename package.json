@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@remotelock/react-week-scheduler": "^3.5.8",
+    "dayjs": "^1.11.5",
+    "dayjs-business-time": "^1.0.4",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.20",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.0"
+    "eslint-config-next": "12.3.0",
+    "typescript": "4.8.3"
   }
 }
